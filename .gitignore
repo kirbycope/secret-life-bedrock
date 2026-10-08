@@ -3,3 +3,6 @@ minecraftpe/
 resource_packs/
 world_templates/
 ud*.dat
+
+# the release build, written by tools/build_addon.py
+/build/
